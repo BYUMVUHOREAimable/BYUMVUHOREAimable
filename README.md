@@ -74,8 +74,8 @@ Software Engineer passionate about building scalable web & mobile applications, 
 
 ## 📫 Connect With Me
 
-- 🌐 Portfolio: byumvuhore-aimable-protofolio.vercel.app
-- 💼 LinkedIn: linkedin.com/in/byumuhoreaimable
+- 🌐 Portfolio: https://byumvuhore-aimable-protofolio.vercel.app
+- 💼 LinkedIn: https://linkedin.com/in/byumuhoreaimable
 - 📧 Email: aimablebyumvuhore@gmail.com
 
 ---
