@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Aimable Byumvuhore 👋
 
-<!--
-**BYUMVUHOREAimable/BYUMVUHOREAimable** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineer @ Global Kwik Koders
 
-Here are some ideas to get you started:
+Building scalable web & Mobile applications, ERP solutions, and secure digital systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 💼 Software Engineer at Global Kwik Koders
+- 🏥 Contributing to Marley Healthcare digital solutions
+- ⚙️ Working with ERPNext and enterprise systems
+- 🎓 Software Programming & Embedded Systems Graduate
+- 🔐 Passionate about Cybersecurity & Software Engineering
+
+## 🛠️ Tech Stack
+
+**Languages:** Python, JavaScript, TypeScript, Java, C/C++, SQL
+
+**Frontend:** React, Next.js, Tailwind CSS
+
+**Backend:** Node.js, Express.js, Django, Flask
+
+**ERP & Enterprise:** ERPNext, Frappe Framework
+
+**Databases:** PostgreSQL, MongoDB, MySQL
+
+**Tools:** Git, GitHub, Docker, Linux
+
+## 🌟 Featured Projects
+
+- 🎤 CodeSync – Remote Interview Platform
+- 🎉 Event Connect – Event Management System
+- 👥 Friend Store – Full-Stack CRUD Application
+- 🏥 Marley Healthcare Solutions
+- ⚙️ ERPNext Customization & Implementation
+
+## 📫 Connect
+
+- 🌐 Portfolio: https://byumvuhore-aimable-protofolio.vercel.app
+- 💼 LinkedIn: linkedin.com/in/byumvuhoreaimable
+- 📧 Email: aimablebyumvuhore@gmail.com
+
+> Building secure, scalable, and impactful software solutions.
