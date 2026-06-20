@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Byumuhore Aimable
+# 👋 Hi, I'm BYUMVUHORE Aimable
 
 ### Full-Stack Software Engineer
 
