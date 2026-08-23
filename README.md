@@ -1,6 +1,6 @@
 
-### Hey, It's Aimable 👋
-Let's build something great -> [reach out 😊](https://api.whatsapp.com/send/?phone=250796004898&text=Hi+Aimable%2C+let%27s+build+something&type=phone_number&app_absent=0)
+### Hey, It's BYUMVUHORE Aimable 👋
+Let's build something great -> [reach out 😊](https://api.whatsapp.com/send/?phone=250796004898&text=Hi+BYUMVUHORE+Aimable%2C+let%27s+build+something&type=phone_number&app_absent=0)
 
 ### Full-Stack Software Engineer
 
@@ -83,7 +83,7 @@ Software Engineer passionate about building scalable web & mobile applications, 
 - 🌐 Portfolio: https://byumvuhore-aimable-protofolio.vercel.app
 - 💼 LinkedIn: https://linkedin.com/in/byumuhoreaimable
 - 📧 Email: aimablebyumvuhore@gmail.com
-- 💬 WhatsApp: [Chat with me](https://api.whatsapp.com/send/?phone=250796004898&text=Hi+Aimable%2C+let%27s+build+something&type=phone_number&app_absent=0)
+- 💬 WhatsApp: [Chat with me](https://api.whatsapp.com/send/?phone=250796004898&text=Hi+BYUMVUHORE+Aimable%2C+let%27s+build+something&type=phone_number&app_absent=0)
 
 ---
 
